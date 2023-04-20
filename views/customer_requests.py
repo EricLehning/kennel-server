@@ -2,6 +2,18 @@ CUSTOMERS = [
     {
         "id": 1,
         "name": "Ryan Tanay"
+    },
+    {
+        "id": 2,
+        "name": "Frank Mank"
+    },
+    {
+        "id": 3,
+        "name": "Burny Murny"
+    },
+    {
+        "id": 4,
+        "name": "Dave Nave"
     }
 ]
 
